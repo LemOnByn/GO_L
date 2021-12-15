@@ -1,9 +1,3 @@
----
-tags: GO
----
-
-
-
 # GO Learning Remark
 
 ## 12/15 
